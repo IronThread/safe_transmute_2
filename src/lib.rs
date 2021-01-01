@@ -1,4 +1,5 @@
 #![no_std]
+#![allow(unused)]
 
 //! This library provide a completely safe transmute.
 

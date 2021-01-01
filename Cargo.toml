@@ -1,6 +1,6 @@
 [package]
 name = "safe_transmute_2" 
-version = "0.1.0" # remember to change html_root_url
+version = "0.1.1"
 authors = ["IronThread"]
 edition = "2018"
 license = "Unlicense"
